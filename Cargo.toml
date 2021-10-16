@@ -1,0 +1,13 @@
+[package]
+name = "biased-rc"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/jcrevier/biased-rc"
+readme = "README.md"
+homepage = "https://github.com/jcrevier/biased-rc"
+description = "A reference counting type biased toward the creating thread"
+keywords = ["brc", "reference-count", "rc", "arc"]
+categories = ["data-structures", "concurrency"]
+
+[dependencies]
